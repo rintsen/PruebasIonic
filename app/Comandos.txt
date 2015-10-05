@@ -1,0 +1,5 @@
+para compilar Jade durante cambios (node.js command promp):
+jade -w -P *.jade
+
+para inicializar servicio y probar desde cordova (git bash):
+ionic serve
